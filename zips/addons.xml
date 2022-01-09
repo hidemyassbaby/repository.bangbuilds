@@ -93,7 +93,7 @@
 	</extension>
 </addon>
 
-<addon id="resource.images.skinbackgrounds.xonfluencemonsterbuild" name="Skin Backgrounds Monster Build" version="5.2" provider-name="">
+<addon id="resource.images.skinbackgrounds.xonfluencemonsterbuild" name="Skin Backgrounds Monster Build" version="6.0" provider-name="">
 
 	<extension point="kodi.resource.images" compile="false" type="skinbackgrounds" />
 	<requires>
