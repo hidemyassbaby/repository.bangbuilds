@@ -93,20 +93,20 @@
 	</extension>
 </addon>
 
-<addon id="resource.images.skinbackgrounds.xonfluencemonsterbuild" name="Skin Backgrounds Monster Build" version="6.1" provider-name="">
+<addon id="resource.images.skinbackgrounds.xonfluenceduncanbuild" name="Skin Backgrounds Duncan Build" version="2.2" provider-name="">
 
 	<extension point="kodi.resource.images" compile="false" type="skinbackgrounds" />
 	<requires>
 		<import addon="kodi.resource" version="1.0.0"/>
 	</requires>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Skin Backgrounds Pack Bang Monster Build</summary>
-		<description lang="en">Skin Backgrounds Pack Bang Monster Build</description>
+		<summary lang="en">Skin Backgrounds Pack - Duncan Build</summary>
+		<description lang="en">Skin Backgrounds - Duncan Build</description>
 		<platform>all</platform>
 	</extension>
 </addon>
 
-<addon id="resource.images.skinbackgrounds.xonfluencenzbuildnzau" name="Skin Backgrounds NZ AUS" version="5.0" provider-name="">
+<addon id="resource.images.skinbackgrounds.xonfluencenzbuildnzau" name="Skin Backgrounds NZ AUS" version="5.3" provider-name="">
 
 	<extension point="kodi.resource.images" compile="false" type="skinbackgrounds" />
 	<requires>
